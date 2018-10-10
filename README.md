@@ -1,2 +1,2 @@
 # TrussWorthy
-Trussworthy code for mechanics at BU
+Group Trussworthy's truss analysis code for Mechanics at BU
